@@ -1,5 +1,5 @@
 // @ts-check
 
 module.exports = {
-  token: "https://discord.com/oauth2/authorize?client_id=1215932215196778548&permissions=8&scope=applications.commands+bot",
+  token: "MTIxNTkzMjIxNTE5Njc3ODU0OA.G--rW1.g5AlaLg-a4uXBR8YnF-lZINNdYSiYOgPUMvEms",
 };
